@@ -16,6 +16,9 @@
 	
 	"LOCKBOX_NAME": "Rusty Lockbox",
 	"LOCKBOX_CONTEXT": "Open Rusty Lockbox",
+
+	"LOCKBOXVOID_NAME": "Encrusted Lockbox",
+	"LOCKBOXVOID_CONTEXT": "Open Encrusted Lockbox",
 	
 	"EQUIPMENTBARREL_NAME": "Equipment Barrel",
 	"EQUIPMENTBARREL_CONTEXT": "Open equipment barrel",
@@ -122,6 +125,13 @@
 	"SHRINE_BOSS_BEGIN_TRIAL": "<style=cShrine>Let the challenge of the Mountain... begin!</style>",
 	"SHRINE_BOSS_END_TRIAL": "<style=cShrine>Your bravery is rewarded!</style>",
 
+	"VOID_SUPPRESSOR_NAME": "Void Eradicator",
+	"VOID_SUPPRESSOR_CONTEXT": "Eradicate items",
+	"VOID_SUPPRESSOR_USE_MESSAGE_2P": "<style=cShrine>You eradicated {1} from the universe.",
+	"VOID_SUPPRESSOR_USE_MESSAGE": "<style=cShrine>{0} eradicated {1} from the universe.",
+	"VOID_SUPPRESSOR_FAKE_NAME": "Newt Altar?",
+	"VOID_SUPPRESSOR_FAKE_CONTEXT" : "Donate to Newt Altar?",
+
 	"SHRINE_RESTACK_NAME": "Shrine of Order",
 	"SHRINE_RESTACK_CONTEXT": "Offer to Shrine of Order",
 	"SHRINE_RESTACK_USE_MESSAGE_2P": "<style=cShrine>You have been... sequenced.</color>",
@@ -148,8 +158,8 @@
 	"GOLDTOTEM_NAME": "Halcyon Beacon",
 	"GOLDTOTEM_CONTEXT": "Rebuild Halcyon Beacon",
 
-	"ARENA_ADD_MONSTER" : "<style=cWorldEvent>[WARNING] OH GODS, NOT {1}s!</style>",
-	"ARENA_ADD_ITEM" : "<style=cWorldEvent>[WARNING] EFF, THEY FOUND THE {1}s!</style>",
+	"ARENA_ADD_MONSTER" : "<style=cWorldEvent>[WARNING] {1}s have been released from the Cell..!</style>",
+	"ARENA_ADD_ITEM" : "<style=cWorldEvent>[WARNING] {1} has been integrated into the Cell...!</style>",
 	"ARENA_END" : "<style=cWorldEvent>The Cell stabilizes.</style>",
 	"NULL_WARD_NAME" : "Cell Vent",
 	"NULL_WARD_CONTEXT" : "Open Cell Vent",
@@ -168,6 +178,9 @@
 
 	"MOON_BATTERY_MASS_NAME" : "Pillar of Mass",
 	"MOON_BATTERY_MASS_CONTEXT" : "Activate Pillar",
+
+	"VENDING_MACHINE_NAME" : "Eclipse Zero Vending Machine",
+	"VENDING_MACHINE_CONTEXT" : "Purchase Refreshing Beverage",
 
 	"LOCKEDMAGE_NAME" : "Survivor",
 	"LOCKEDMAGE_CONTEXT" : "Free the survivor",
@@ -230,6 +243,7 @@
 	"COST_VOLATILEBATTERY_FORMAT": "{0} Fuel Array",
 	"COST_ARTIFACTSHELLKILLERITEM_FORMAT" : "{0} Artifact Key",
 	"COST_TREASURECACHEITEM_FORMAT": "{0} Rusted Key",
+	"COST_TREASURECACHEVOIDITEM_FORMAT": "{0} Encrusted Key",
 	"FIREBALL_VEHICLE_EXIT_CONTEXT" : "Detonate",
 
 	"ARTIFACT_TRIAL_CONTROLLER_NAME" : "Unknown Artifact",
