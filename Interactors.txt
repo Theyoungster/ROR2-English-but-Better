@@ -113,8 +113,8 @@
 
 	"SHRINE_CHANCE_NAME": "Shrine of Chance",
 	"SHRINE_CHANCE_CONTEXT": "Offer to Shrine of Chance",
-	"SHRINE_CHANCE_SUCCESS_MESSAGE_2P": "<style=cShrine>You offer to the shrine and are rewarded!</color>",
-	"SHRINE_CHANCE_SUCCESS_MESSAGE": "<style=cShrine>{0} offered to the shrine and was rewarded!</color>",
+	"SHRINE_CHANCE_SUCCESS_MESSAGE_2P": "<style=cShrine>A winner is you!</color>",
+	"SHRINE_CHANCE_SUCCESS_MESSAGE": "<style=cShrine>A winner is {0}!</color>",
 	"SHRINE_CHANCE_FAIL_MESSAGE_2P": "<style=cShrine>You get nothing!  You lose!  Good day sir!.</color>",
 	"SHRINE_CHANCE_FAIL_MESSAGE": "<style=cShrine>{0} lost!  They get nothing!  Good day sir!.</color>",
 
