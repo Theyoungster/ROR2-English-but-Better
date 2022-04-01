@@ -1,0 +1,73 @@
+{
+	"strings": {
+		"BROTHER_DIALOGUE_FORMAT": "<color=#c6d5ff><size=120%>Mithrix: {0}</color></size>",
+
+		//[HURT BROTHER],
+		"BROTHER_SPAWN_PHASE1_1": "Oh hai Mark.",
+		"BROTHER_SPAWN_PHASE1_2": "WHASSUUUUUUUP!",
+		"BROTHER_SPAWN_PHASE1_3": "Hello there.",
+		"BROTHER_SPAWN_PHASE1_4": "GENERAL KENOBI!",
+
+		"BROTHER_DAMAGEDEALT_1": "Whack.",
+		"BROTHER_DAMAGEDEALT_2": "Bonk.",
+		"BROTHER_DAMAGEDEALT_3": "Boink.",
+		"BROTHER_DAMAGEDEALT_4": "LEEEEROOOOOOOOOOOY JEEEEEEEEENKIIIIIINS!!!",
+		"BROTHER_DAMAGEDEALT_5": "MUDAMUDAMUDAMUDAMUDAMUDA!",
+		"BROTHER_DAMAGEDEALT_6": "To the moon with you!  ...wait...",
+		"BROTHER_DAMAGEDEALT_7": "FALCON...PUNCH!!!",
+		"BROTHER_DAMAGEDEALT_8": "Stop...HAMMERTIME!",
+		"BROTHER_DAMAGEDEALT_9": "https://youtu.be/yALBEheFaVY&t=1",
+		"BROTHER_DAMAGEDEALT_10": "How's that health bar lookin' buddy? :)",
+
+		"BROTHER_KILL_1": "Haha big hammer go brrrrrr.",
+		"BROTHER_KILL_2": "RIP.",
+		"BROTHER_KILL_3": "HA! GOT 'IM!",
+		"BROTHER_KILL_4": "See you space cowboy...",
+		"BROTHER_KILL_5": "GEEEEEEET DUNKED ON!!!",
+
+		"BROTHER_SEE_HERETIC_1": "BIIIIIIIIIIIIRRRRRRRB!!!!!!!!",
+		"BROTHER_SEE_HERETIC_2": "*soft gasp* Fluffy Birb! :D",
+
+		"BROTHER_KILL_HERETIC_1": "Oh no birb! D:",
+		"BROTHER_KILL_HERETIC_2": "NOOOOOOOOOOO!!! BIIIIIIIIRRRRRRRRRBBBBBBBB!!!!!!!!!",
+
+		"BROTHER_KILL_MECHANICAL_1": "THAT'S FOR NOT DELIVERING MY AMAZON ORDER ON TIME!",
+		"BROTHER_KILL_MECHANICAL_2": "Haha robot go brrrRREAK!!!",
+		"BROTHER_KILL_MECHANICAL_3": "So uhh, I took apart your toaster :/",
+
+		//[HURT BROTHER],
+		"BROTHERHURT_DAMAGEDEALT_1": "Cool stuff ya got here.",
+		"BROTHERHURT_DAMAGEDEALT_2": "Not so tough without your stuff huh?",
+		"BROTHERHURT_DAMAGEDEALT_3": "I HAVE THE POWER OF GOD AND ANIME ON MY SIDE!",
+		"BROTHERHURT_DAMAGEDEALT_4": "My Power Level...IT'S OVER 9000!!!!!!!!!",
+		"BROTHERHURT_DAMAGEDEALT_5": "How're all those items workin' out for ya?",
+		"BROTHERHURT_DAMAGEDEALT_6": "BREAK.",
+		"BROTHERHURT_DAMAGEDEALT_7": "FALSE STRENGTH.",
+		"BROTHERHURT_DAMAGEDEALT_8": "DRAIN.",
+		"BROTHERHURT_DAMAGEDEALT_9": "DIE, VERMIN.",
+		"BROTHERHURT_DAMAGEDEALT_10": "Sorry buddy, shoulda had your stuff nailed down.",
+
+		"BROTHERHURT_KILL_1": "Yo, can I keep your stuff?",
+		"BROTHERHURT_KILL_2": "You are ded, not big surprise",
+		"BROTHERHURT_KILL_3": "Yo wtf this build is nuts!",
+		"BROTHERHURT_KILL_4": "THESE WILL MAKE A FINE ADDITION TO MY COLLECTION.",
+		"BROTHERHURT_KILL_5": "Hah!  The secret ingredient WAS crime!",
+
+		"BROTHERHURT_DEATH_1": "Welp, guess I'll die.",
+		"BROTHERHURT_DEATH_2": "https://youtu.be/7uBqNgxAuBA?t=40",
+		"BROTHERHURT_DEATH_3": "The decisions I have made leading up to this point have been less than optimal.",
+		"BROTHERHURT_DEATH_4": "Mithrix.exe has stopped responding...",
+		"BROTHERHURT_DEATH_5": "Aight, imma head out.",
+		"BROTHERHURT_DEATH_6": "*gmod ragdoll clipping noises*",
+
+		"BROTHERHURT_SEE_TITANGOLD_1": "Hmmmmm...*mild concern*",
+		"BROTHERHURT_SEE_TITANGOLD_2": "ohhh...uhhh...hey buddy...",
+		"BROTHERHURT_SEE_TITANGOLD_AND_HERETIC_1": "Oh, birb have friend.",
+
+		"BROTHERHURT_KILL_TITANGOLD_1": "*Critical Hit!* ...I knew I should've just used my Master Ball...",
+		"BROTHERHURT_KILL_TITANGOLD_2": "Hey I won! :D",
+
+		"BROTHERHURT_KILL_HERETIC_1": "A moment of silence...for birb... T-T",
+		"BROTHERHURT_KILL_HERETIC_2": "No...Birb...Forgive me... ;-;",
+	}
+}
