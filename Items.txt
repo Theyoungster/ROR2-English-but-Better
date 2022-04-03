@@ -1,9 +1,9 @@
  {
 	strings:
 	{
-	"ITEM_PICKUP_CONTEXT" : "Get {0}",
-	"EQUIPMENT_PICKUP_CONTEXT" : "Get {0}",
-	"EQUIPMENT_SWAP_CONTEXT" : "Swap for {0}",
+	"ITEM_PICKUP_CONTEXT" : "GIMMIE {0}",
+	"EQUIPMENT_PICKUP_CONTEXT" : "GIMMIE {0}",
+	"EQUIPMENT_SWAP_CONTEXT" : "I WANT {0} INSTEAD!",
 
 	"ITEM_CLOVER_NAME": "57 Leaf Clover",
 	"ITEM_CLOVER_PICKUP": "Luck is on your side.",
@@ -100,7 +100,7 @@
 	"ITEM_BLEEDONHIT_DESC": "<style=cIsDamage>10%</style> <style=cStack>(+10% per stack)</style> chance to <style=cIsDamage>bleed</style> an enemy for <style=cIsDamage>240%</style> base damage.",
 	"ITEM_BLEEDONHIT_LORE": "<style=cMono>\r\nWelcome to DataScraper (v3.1.53 \u2013 beta branch)\r\n$ Scraping memory... done.\r\n$ Resolving... done.\r\n$ Combing for relevant data... done.\r\nComplete!\r\n<\/style>\r\n\r\nThe following is an audio transcript from the trial of D. Cooper, wanted for 5 counts of serial manslaughter.\r\n\r\n\u201CMr. Cooper, do you recognize this item?\u201D\r\n\r\n\u201CI do.\u201D\r\n\r\n\u201CIs it true that you used this weapon on your victims?\u201D\r\n\r\n\u201CYes.\u201D\r\n\r\n\u201CAnd, Mr. Cooper, is it true that... that you would use this dagger to expose the healed wounds of your victims? In an attempt to spill yet more innocent blood from them?\u201D\r\n\r\n\u201COh yes. Was my favorite part.\u201D\r\n\r\n\u201CYour favorite part, you say. Ladies and gentlemen of the jury, I think you all can see that Mr. Cooper is a truly deranged man - who took the lives of countless innocent people. However, if you are not fully convinced, I have one more piece of evidence to provide for the jury\u2019s consideration. Your honor, if I may prepare an audio recording of Mr. Cooper?\u201D\r\n\r\n\u201CProceed.\u201D\r\n\r\n\u201CThank you, your honor. Now, please play back the recording.\u201D\r\n\r\nThe remainder of this court transcript has been sealed.\r\nReason: i think im gonna be sick\r\n",
 
-	"ITEM_SPRINTOUTOFCOMBAT_NAME": "Red Whip",
+	"ITEM_SPRINTOUTOFCOMBAT_NAME": "Sonic SPEED",
 	"ITEM_SPRINTOUTOFCOMBAT_PICKUP": "Gotta move speed.",
 	"ITEM_SPRINTOUTOFCOMBAT_DESC": "Leaving combat boosts your <style=cIsUtility>movement speed</style> by <style=cIsUtility>30%</style> <style=cStack>(+30% per stack)</style>.",
 	"ITEM_SPRINTOUTOFCOMBAT_LORE": "\u201C...going to 594 South River, Io. Check. One Whip, Red, Priority shipping. Going to... to, um... Oh, wow...\u201D\r\n\r\n-Signal echoes, UES Contact Light\r\n",
@@ -259,8 +259,8 @@
 	"ITEM_BOSSDAMAGEBONUS_DESC": "Deal an additional <style=cIsDamage>20%</style> damage <style=cStack>(+20% per stack)</style> to bosses.",
 	"ITEM_BOSSDAMAGEBONUS_LORE": "Order: Armor-Piercing Rounds, 50mm\r\nTracking Number: 15***********\r\nEstimated Delivery: 3\/07\/2056\r\nShipping Method:  Standard\r\nShipping Address: Fort Margaret, Jonesworth System\r\nShipping Details: \r\n\r\nAlright, just to clarify, these rounds aren\u2019t faulty. Heck, I\u2019d say they\u2019re better than the standard, but... that\u2019s kind of the problem. I don\u2019t know if it was a new shipment of materials, or a problem with the assembly line, but these rounds are supposed to pierce armor. Not pierce through the armor, five feet of reinforced concrete, a few warehouses, and an armored truck. \r\n\r\nCould you guys look into this so we don\u2019t like, violate any Geneva Conventions or anything?\r\n",
 	
-	"ITEM_SPRINTARMOR_NAME": "Rose Buckler",
-	"ITEM_SPRINTARMOR_PICKUP": "Reduce incoming damage while sprinting.",
+	"ITEM_SPRINTARMOR_NAME": "Chargin' Targe",
+	"ITEM_SPRINTARMOR_PICKUP": "*Drunk, incoherent screaming*",
 	"ITEM_SPRINTARMOR_DESC": "<style=cIsHealing>Increase armor</style> by <style=cIsHealing>30</style> <style=cStack>(+30 per stack)</style> <style=cIsUtility>while sprinting</style>.",
 	"ITEM_SPRINTARMOR_LORE" : "Order: Please let me know when you get this. I foun...\r\nTracking Number: 53******\r\nEstimated Delivery: 05\/22\/2056\r\nShipping Method: Priority\r\nShipping Address: Research Center, Polarity Zone, Neptune\r\nShipping Details:\r\n\r\nBTW Mama should have sent over another package as well. Let me know when you get it.\r\n\r\nPapa",
 	
@@ -604,24 +604,24 @@
 	"ITEM_LUNARWINGS_DESC": "PLACEHOLDER DESCRIPTION", 
 	"ITEM_LUNARWINGS_LORE" : "A relic from an ancient avian race:  It is said that they gave up the gift of flight in order to establish new agricultural civilizations, bolstering their strength and numbers to withstand the ever-changing climate of their dying planet.",
 
-	"ITEM_RANDOMLYLUNAR_NAME" : "Eulogy Zero",
-	"ITEM_RANDOMLYLUNAR_PICKUP" : "Items and equipment have a small chance to transform into a Lunar item instead.",
+	"ITEM_RANDOMLYLUNAR_NAME" : "Domino Effect (of making things blue)",
+	"ITEM_RANDOMLYLUNAR_PICKUP" : "EVERYTHING IS BLUE NOW!  NYEHEHEH!",
 	"ITEM_RANDOMLYLUNAR_DESC": "Items have a <style=cIsUtility>5% <style=cStack>(+5% per stack)</style></style> chance to become a <style=cIsLunar>Lunar</style> item instead.", 
 	"ITEM_RANDOMLYLUNAR_LORE" : "<style=cMono>\r\nA eulogy for the victors of spiritual warfare:\r\nThis is a message from me to you.<\/style>\r\n\r\nThough in life you will stumble, stammer and fall - though you will lose your loved ones and shed more tears than your eyes can muster - in time you can find peace on the planets you call home. A small creature waiting quietly for you, a smiling face from another stream, the silence as you breathe in the scent of a new season.\r\nLet your heart remind you why you are here; let it tell you something new and something old. A mind remembers, but a heart knows.\r\nI love me so that I can love you too -  I've wanted to disappear before, but I've always wanted to return to see you. The grass and the leaves, the warmth of the sun and the insects at night. \r\n\r\nI promised myself, and I promise you: \r\n\r\nA victory is the reward of cumulative loss, ever present as a light at the end of the tunnel. Even in death, there is the lingering promise of new life - forever doomed to repeat the cycle.\r\n\r\nIt's getting dark. If you get lost it's alright, for now. I hope you enjoy the shooting stars. Rest in peace.",
 
-	"ITEM_IMMUNETODEBUFF_NAME" : "Ben's Raincoat",
-	"ITEM_IMMUNETODEBUFF_PICKUP" : "Become immune to all debuffs. Increase maximum health.",
+	"ITEM_IMMUNETODEBUFF_NAME" : "Magic Guard",
+	"ITEM_IMMUNETODEBUFF_PICKUP" : "SCREW YOU STATUS CONDITIONS",
 	"ITEM_IMMUNETODEBUFF_DESC": "Whenever you would receive a <style=cIsDamage>debuff</style>, prevent it. Increases <style=cIsHealing>maximum health</style> by <style=cIsHealing>100</style> <style=cStack>(+100 per stack)</style>.", 
 	"ITEM_IMMUNETODEBUFF_LORE" : "Return: Gorton Men's Rain Jacket (Medium, Yellow)\r\nTracking Number: 73***********\r\nEstimated Delivery: 03\/04\/2053\r\nShipping Method:  Standard\r\nShipping Address: 545 Matthaios Blvd., Gloucester, Earth\r\nReason For Return: \n\nThe jacket itself is fine, but for some reason, a bunch of the students here got super weird about me wearing it. They keep telling me to take it off because this other guy, Ben, wears a yellow jacket. I guess it's kinda his thing or something.\n\nRefund:\nReplace:  X\n\nAdditional Notes:\n\nPlease send a replacement that's blue.",
 
-	"ITEM_REGENERATINGSCRAP_NAME" : "Regenerating Scrap",
-	"ITEM_REGENERATINGSCRAP_PICKUP" : "Prioritized when used with <style=cIsHealing>Uncommon</style> 3D Printers. Usable once per stage.",
+	"ITEM_REGENERATINGSCRAP_NAME" : "Scrap of Greed",
+	"ITEM_REGENERATINGSCRAP_PICKUP" : "<style=cIsHealing>Lets you draw two </style>(minus one)<style=cIsHealing> extra cards from your deck!</style>",
 	"ITEM_REGENERATINGSCRAP_DESC": "Does nothing. Prioritized when used with <style=cIsHealing>Uncommon</style> 3D Printers. At the start of each stage, it regenerates.", 
 	"ITEM_REGENERATINGSCRAP_LORE" : "<style=cMono>//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</style>\n\n\"Hey, Joe, how's the work in engineering?\"\n\n\"Terrible. We have a shipment of this... weird, prototype material. Some kind of metal? They want us to make stuff out of it, which isn't too bad. Thing is, no matter how much I take, there always seems to be more. Did you know I made twenty-five hundred units of .300 caliber rounds from a 10 kilo crate of metal?\"\n\n\"How much!?\"\n\n\"Right!? I feel like I'm losing my mind. It's not even half-way empty. Hell, I bet there's more in there than when I started!\"\n\n\"Well, at least you won't have to worry about running out...\"",
 
-	"ITEM_REGENERATINGSCRAPCONSUMED_NAME" : "Regenerating Scrap (Consumed)",
-	"ITEM_REGENERATINGSCRAPCONSUMED_PICKUP" : "At the start of each stage, it transforms into Regenerating Scrap.",
-	"ITEM_REGENERATINGSCRAPCONSUMED_DESC": "At the start of each stage, it transforms into Regenerating Scrap.",
+	"ITEM_REGENERATINGSCRAPCONSUMED_NAME" : "Scrap of Greed (in Graveyard)",
+	"ITEM_REGENERATINGSCRAPCONSUMED_PICKUP" : "Don't worry, it'll re-summon itself.",
+	"ITEM_REGENERATINGSCRAPCONSUMED_DESC": "Don't worry, it'll re-summon itself.",
 
 	"ITEM_CRITGLASSESVOID_NAME": "It's so sad Steve Jobs died of Ligma",
 	"ITEM_CRITGLASSESVOID_PICKUP": "<style=cIsVoid>...who the heck is Steve Jobs?</style>.",
@@ -746,8 +746,8 @@
 	"ITEM_MINORCONSTRUCTONKILL_DESC": "Killing elite monsters spawns an <style=cIsDamage>Alpha Construct</style>. Limited to <style=cIsUtility>4</style> <style=cStack>(+4 per stack)</style>.",
 	"ITEM_MINORCONSTRUCTONKILL_LORE": "\"Excellent!  How did you find it?\"\n\n\"We took down one of those floating fortune tellers--\"\n\n\"Xi Construct.\"\n\n\"Sure.  Anyway, we took it down and recovered the sample.\"\n\n\"May I see it?\"\n\n\"This is it.\"\n\n\"This?  What happened?  I thought you said it was glowing.\"\n\n\"That's right.  It was.  Before I scrapped it.\"\n\n\"...You ...what?\"\n\n\"I scrapped it.\"\n\n\"You were finally able to recover a sample from the Xi Construct, and you scrapped it?  Do you realize monumental importance of the samples we've been gathering?\"\n\n\"I realize the monumental danger.  I've read the lab files.  Daimera's crippled in one hand.  Veirs was THIS close to electrocuting herself.  After Fitz nearly KILLED his ENTIRE team for a VASE, you think I'm going to haul a mysterious glowing orb back here?  HELL.  NO.\"\n\n\"...Well, what's done is done.  I guess I'll analyze what's left.  Anything else?\"\n\n\"Yeah, I was thinking we could call it a 'Defense Nucleus'.\"\n\n\"...\"\n\n\"In the file.\"\n\n\"No.\"",
 
-	"ITEM_VOIDMEGACRABITEM_NAME": "Newly Hatched Zoea",
-	"ITEM_VOIDMEGACRABITEM_PICKUP": "Periodically recruit allies from the <style=cIsVoid>Void</style>.  <style=cIsVoid>Corrupts all </style><style=cIsTierBoss>yellow items</style><style=cIsVoid>.</style>",
+	"ITEM_VOIDMEGACRABITEM_NAME": "<style=cIsVoid>VWOOP</style>",
+	"ITEM_VOIDMEGACRABITEM_PICKUP": "<style=cIsVoid>WE HAVE REACHED MAXIMUM VWOOP.</style>",
 	"ITEM_VOIDMEGACRABITEM_DESC": "Every <style=cIsUtility>60</style><style=cStack>(-50% per stack)</style> seconds, gain a random <style=cIsVoid>Void</style> ally. Can have up to <style=cIsUtility>1</style><style=cStack>(+1 per stack)</style> allies at a time.",
 	"ITEM_VOIDMEGACRABITEM_LORE": "<style=cMono>Lab Dissection Analysis File</style>\r\nSubject: Newly Hatched Zoea\r\nTechnician: X. Shun\r\nTable Spec: BioSaf, spectroscopic hood enabled\r\nNotes:\r\n\r\n- Taking a moment to contain myself.\r\n- It's been quite a while since we've received a sample--INTACT sample--so I am being abundantly cautious.\r\n- Sample is in excellent condition.  I am pleased with the care Jiminez took compared to her predecessor.\r\n- Sample appears to be an undocumented carcinized species.  Perhaps a juvenile?\r\n- Attempting to biopsy epidermis\r\n- Exterior of the sample is too hard for my scalpel\r\n- I believe I have found the oral cavity.  Attemping oral biopsy.\r\n- <style=cMono>//--AUTO-TRANSCRIPTION FAILED --//</style>\r\n- <style=cMono>//--AUTO-TRANSCRIPTION FAILED --//</style>\r\n- Help\r\n<style=cMono>End Of File</style>\r\n",
 	}
