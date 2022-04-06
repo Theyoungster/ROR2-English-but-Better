@@ -11,8 +11,8 @@
 	"EQUIPMENT_FRUIT_DESC": "Instantly heal for <style=cIsHealing>50% of your maximum health</style>.",
 	"EQUIPMENT_FRUIT_LORE": "\u201CThe Nutapple is an exotic fruit picked from the curious Xelphum Tree, native to coastal Gemines on Titan. Renowned for its sweet, yet cleansing flavor (and low caloric total), the Nutapple is a must-have for health enthusiasts everywhere.\u201D\r\n\r\n- Dietary Sciences Digest\r\n",
 
-	"EQUIPMENT_METEOR_NAME": "Glowing Meteorite",
-	"EQUIPMENT_METEOR_PICKUP": "Rain meteors from the sky, <color=#FF7F7F>hurting both enemies and allies.</color>",
+	"EQUIPMENT_METEOR_NAME": "Meteor Swarm",
+	"EQUIPMENT_METEOR_PICKUP": "20d6 Fire and Bludgeoning damage, babey! <color=#FF7F7F>To all target. Yourself included.</color>",
 	"EQUIPMENT_METEOR_DESC": "<style=cIsDamage>Rain meteors</style> from the sky, damaging ALL characters for <style=cIsDamage>600% damage per blast</style>. Lasts 20 seconds.",
 	"EQUIPMENT_METEOR_LORE" : "What a... peculiar piece of the stars that serendipity has brought us. I'm sure you can make more. The ratios are simple. It should be quite fun.",
 
@@ -20,8 +20,8 @@
 	"EQUIPMENT_SOULJAR_PICKUP": "Summon a ghost for every enemy on the screen.",
 	"EQUIPMENT_SOULJAR_DESC": "Duplicate every enemy as a ghost to fight on your side for 15 seconds.",
 
-	"EQUIPMENT_BLACKHOLE_NAME": "Primordial Cube",
-	"EQUIPMENT_BLACKHOLE_PICKUP": "Fire a black hole that draws enemies in.",
+	"EQUIPMENT_BLACKHOLE_NAME": "BLACK HOOOOOOOOOOOOOOOOOOLE!!!",
+	"EQUIPMENT_BLACKHOLE_PICKUP": "Good for disposing of garbage and enemies!",
 	"EQUIPMENT_BLACKHOLE_DESC": "Fire a black hole that <style=cIsUtility>draws enemies within 30m into its center</style>. Lasts 10 seconds.",
 	"EQUIPMENT_BLACKHOLE_LORE": "\u201CProfessors Mia Thatcher and Jared Malik report that the galaxy\u2019s first singularity containment lattice \u2013 or SCL, for short \u2013 has finished tests and is confirmed to be perfectly safe. \r\n\r\nWhile this is a historic scientific breakthrough, multiple scientists have spoken out about the implications of such a discovery - and what it could mean for the future of the humanity.\u201D\r\n\r\n- The Saturn Reporter, Front Page Headline\r\n",
 
@@ -44,18 +44,18 @@
 	"EQUIPMENT_BFG_DESC": "Fires preon tendrils, zapping enemies within 35m for up to <style=cIsDamage>600% damage/second</style>. On contact, detonate in an enormous 20m explosion for <style=cIsDamage>4000% damage</style>.",
 	"EQUIPMENT_BFG_LORE" : "Order: Particle Accelerator Component\r\nTracking Number: 993******\r\nEstimated Delivery: 06\/06\/2056\r\nShipping Method: Volatile\r\nShipping Address: Advance Particle Research Center, Mesquite, Earth\r\n\r\nI still don't get how you keep losing so many accumulators. I build 'em tough, and they're supposed to last. I ran the numbers on the comm speeds, and I'm pretty sure you sent for this order less than two days after you should've got the last one. \r\n\r\nIf this keeps up, you're gonna punch a hole in something where it doesn't belong. You've got a real good sponsor, Jim, but this stuff ain't cheap to ship. And it sure as heck ain't fast. So, I'm sending you a custom part. One that's as tough as I can make, and with a safety to keep you from overcharging it - that I'm sure you'll bypass anyway. \r\n\r\nAt least try not to blow this one to bits for the first week, alright? Make our hometown look good. You're not gonna show up those fancy Europeans with a smoking scrap heap.\r\n",
 
-	"EQUIPMENT_JETPACK_NAME": "Milky Chrysalis",
-    "EQUIPMENT_JETPACK_PICKUP": "Gain temporary flight.",
+	"EQUIPMENT_JETPACK_NAME": "Red Bull",
+    "EQUIPMENT_JETPACK_PICKUP": "Red Bull gives you wiiiings!",
     "EQUIPMENT_JETPACK_DESC": "Sprout wings and <style=cIsUtility>fly for 15 seconds</style>. Gain <style=cIsUtility>+20% movement speed</style> for the duration.",
 	"EQUIPMENT_JETPACK_LORE": "Order: Milky Chrysalis\r\nTracking Number: 393*****\r\nEstimated Delivery: 11/27/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Diptera Research Center, Io\r\nShipping Details:\r\n\r\nDeep within the plague wastes there is an alcove free from disease. It is home to a group of insects that have NOT acclimated to their environment. They survive not through resistance\u2026 but through transformation. \r\n\r\nI\u2019ve witnessed the creatures undergoing infinite states of metamorphosis. Each change that happens to them is reflected in the surrounding land. This constantly molds the area into something less toxic.\r\n\r\nI can\u2019t imagine that they don\u2019t have an upper limit - a final form. What adjustments would that final form bring? Are there any restrictions to what can be modified? I\u2019m sending this sample to you to study. Please be careful with it, as it\u2019s frozen in a cryo cell mid-transformation.\r\n",
 
 	"EQUIPMENT_LIGHTNING_NAME": "And along came Zeus!",
-    "EQUIPMENT_LIGHTNING_PICKUP": "He HURLED his thunderbolt...!",
+    "EQUIPMENT_LIGHTNING_PICKUP": "He HURLED his thunderbolt!",
     "EQUIPMENT_LIGHTNING_DESC": "Call down a lightning strike on a targeted monster, dealing <style=cIsDamage>3000% damage</style> and <style=cIsDamage>stunning</style> nearby monsters.",
 	"EQUIPMENT_LIGHTNING_LORE": "Order: ZAP2-K \u201CRoyal\u201D Capacitor\r\nTracking Number: 145***************\r\nEstimated Delivery: 04\/30\/2056\r\nShipping Method:  Standard\r\nShipping Address: Power Plant 005, Route 10, Venus\r\nShipping Details: \r\n\r\nHere\u2019s a replacement for your damaged equipment. Crazy how gang activity is starting up again \u2013 even crazier that they\u2019d steal a capacitor from you guys. Anyway, you guys know the drill \u2013 make sure routinely discharge the capacitor\u2019s storage cells, as it may hold on to latent voltage. Oh, and make sure not to point it at anybody when you do.\r\n\r\n- The Saturn Reporter, Front Page Headline\r\n",
 
-	"EQUIPMENT_GOLDGAT_NAME": "The Crowdfunder",
-    "EQUIPMENT_GOLDGAT_PICKUP": "Toggle to fire. Costs gold per bullet.",
+	"EQUIPMENT_GOLDGAT_NAME": "The Money Gun",
+    "EQUIPMENT_GOLDGAT_PICKUP": "flex on ALL of the peasants.",
     "EQUIPMENT_GOLDGAT_DESC": "Fires a continuous barrage that deals <style=cIsDamage>100% damage per bullet</style>. Costs $1 per bullet. Cost increases over time.",
 	"EQUIPMENT_GOLDGAT_LORE": "Order: The Crowdfunder\r\nTracking Number: 783*****\r\nEstimated Delivery: 05/09/2056\r\nShipping Method: Standard\r\nShipping Address: 206 29th Ave, High Chariot, Mercury \r\nShipping Details:\r\n\r\nThe wealthy overlords on Primas V went to great measures to break the will of the lower class. They kept the threat of injury and death constant, which helped to keep their servants in check, but this was only half of their method. \r\n\r\nTo further highlight the vast differences in status, their extravagant weapons were fueled by currency - they were literally throwing money at them.\r\n\r\nI don\u2019t have to tell you how that turned out for them. It\u2019s why my client is in hiding now and has to pawn these things off. He thanks you for your patronage in these trying times.\r\n",
 	
@@ -129,31 +129,31 @@
 	"EQUIPMENT_TONIC_DESC" : "Drink the Tonic, gaining a boost for 20 seconds. Increases <style=cIsDamage>damage</style> by <style=cIsDamage>+100%</style>. Increases <style=cIsDamage>attack speed</style> by <style=cIsDamage>+70%</style>. Increases <style=cIsDamage>armor</style> by <style=cIsDamage>+20</style>. Increases <style=cIsHealing>maximum health</style> by <style=cIsHealing>+50%</style>. Increases <style=cIsHealing>passive health regeneration</style> by <style=cIsHealing>+300%</style>. Increases <style=cIsUtility>movespeed</style> by <style=cIsUtility>+30%</style>.\n\nWhen the Tonic wears off, you have a <style=cIsHealth>20%</style> chance to gain a <style=cIsHealth>Tonic Affliction, reducing all of your stats</style> by <style=cIsHealth>-5%</style> <style=cStack>(-5% per stack)</style>.",
 	"EQUIPMENT_TONIC_LORE": "\u201CReality is whatever the mind decides it to be. Take a sip of the drink, and the mind becomes malleable. From there, you can shape it into whatever form you please... and the world around you follows your example.\u201D\r\n\r\n- Sigibold the Drunken\r\n",
 
-	"EQUIPMENT_QUESTVOLATILEBATTERY_NAME" : "Fuel Array",
-	"EQUIPMENT_QUESTVOLATILEBATTERY_PICKUP" : "Looks like it could power something. <color=#FF7F7F>EXTREMELY unstable...</color>",
+	"EQUIPMENT_QUESTVOLATILEBATTERY_NAME" : "Lego backpack",
+	"EQUIPMENT_QUESTVOLATILEBATTERY_PICKUP" : "Are you sick of people stepping on you? Then the Lego backpack is for you! <color=#FF7F7F>Just don't drop to half health.</color>",
 
-	"EQUIPMENT_CLEANSE_NAME" : "Blast Shower",
-	"EQUIPMENT_CLEANSE_PICKUP" : "Cleanse all negative effects.",
+	"EQUIPMENT_CLEANSE_NAME" : "Pocket shower",
+	"EQUIPMENT_CLEANSE_PICKUP" : "'Oh come on, there's gotta be another equipment barrel SOMEWHERE, right?.'",
 	"EQUIPMENT_CLEANSE_DESC" : "<style=cIsUtility>Cleanse</style> all negative effects. Includes debuffs, damage over time, and nearby projectiles.",
 	"EQUIPMENT_CLEANSE_LORE" : "Order: Blast Shower\r\nTracking Number: 152*****\r\nEstimated Delivery: 06/19/2056\r\nShipping Method: Standard\r\nShipping Address: Frontier Gate, Outer Edge Zone\r\nShipping Details:\r\n\r\nOuter Edge thanks you for your rewards redemption! It takes a real explorer to make their living on the frontier. As you undoubtedly know, REAL exploring is REAL messy. This portable unit will equip you with the modern convenience of taking a shower anywhere at any time!\r\n\r\nDisclaimer: Wear your protective suit while cleansing. Do not use product directly on skin. Blast Shower is only rated for B-class toxins and C-class foreign organisms. This company does not accept any responsibility for incidents as a result of an incomplete cleansing.\r\n",
 
-	"EQUIPMENT_FIREBALLDASH_NAME" : "Volcanic Egg",
-	"EQUIPMENT_FIREBALLDASH_PICKUP" : "Transform into a speeding draconic fireball, dealing damage as you pass through enemies.",
+	"EQUIPMENT_FIREBALLDASH_NAME" : "Phoenix Egg",
+	"EQUIPMENT_FIREBALLDASH_PICKUP" : "I'm gonna change you like a remix, then I'll raise you like a phoenix!",
 	"EQUIPMENT_FIREBALLDASH_DESC" : "Turn into a <style=cIsDamage>draconic fireball</style> for <style=cIsDamage>5</style> seconds. Deal <style=cIsDamage>500% damage</style> on impact. Detonates at the end for <style=cIsDamage>800% damage</style>.",
 	"EQUIPMENT_FIREBALLDASH_LORE": "Order: Europan Great Dragon Egg\r\nTracking Number: 00****************\r\nEstimated Delivery: 10\/04\/2056\r\nShipping Method:  Biological \/ Fragile\r\nShipping Address: Xenobiology Wildlife Reserve, Titan\r\nShipping Details: \r\n\r\nMake sure to keep this thing nice and hot while it incubates. I know it may seem plenty hot already, but Great Dragons are creatures of flame \u2013 they live the stuff, breath the stuff. Oh, and please send me pictures of the little guy once it hatches. Great Dragons are always so cute when they first hatch.",
 
-	"EQUIPMENT_GAINARMOR_NAME" : "Jade Elephant",
+	"EQUIPMENT_GAINARMOR_NAME" : "Figurine of Wondrous Power",
 	"EQUIPMENT_GAINARMOR_PICKUP" : "Gain massive armor for 5 seconds.",
 	"EQUIPMENT_GAINARMOR_DESC" : "Gain <style=cIsDamage>500 armor</style> for <style=cIsUtility>5 seconds.</style>",
 	"EQUIPMENT_GAINARMOR_LORE": "Excerpt from the folk tale \"Clean as Jade\":\r\n\r\n\u201C... and while the peasants braced for the advancement of the Emperor\u2019s army, the stone carver finished her last strike on the giant sculpture. The clang of the flat tool against the beautiful, translucent green sheen of the solid surface echoed through the trees and around all the villagers. Their souls were cleansed and made whole by the heavenly stone, now formed into the imposing presence of an elephant.\r\n\r\nDetermination and resolve had essentially been carved into the very spirit of the ones who, just moments ago, were clutching their farming implements and make-shift weapons with trembling hands. The attack was repelled that day. The Emperor\u2019s army told stories about their metal weapons bouncing off the cloth of commoners. This inspiring encounter spread to other villages and...\u201D\r\n",
 
-	"EQUIPMENT_SAWMERANG_NAME": "Sawmerang",
-	"EQUIPMENT_SAWMERANG_PICKUP": "Throw a fan of buzzing saws that come back to you.",
+	"EQUIPMENT_SAWMERANG_NAME": "Sawblades",
+	"EQUIPMENT_SAWMERANG_PICKUP": "A staple of precision platforming since like 2006.",
 	"EQUIPMENT_SAWMERANG_DESC": "Throw <style=cIsDamage>three large saw blades</style> that slice through enemies for <style=cIsDamage>3x400%</style> damage. Also deals an additional <style=cIsDamage>3x100% damage per second</style> while <style=cIsDamage>bleeding</style> enemies. Can <style=cIsDamage>strike</style> enemies again on the way back.",
 	"EQUIPMENT_SAWMERANG_LORE": "I'm so happy they let me bring my trusty disc toy on this trip! Trees need cutting? Disc toy. Baddies getting a little too close? Disc toy. Fun after-hours game of catch? Disc toy... but only if you're trained to catch it.",
 
-	"EQUIPMENT_RECYCLER_NAME": "Recycler",
-	"EQUIPMENT_RECYCLER_PICKUP": "Transform an Item or Equipment into a different one. Can only recycle once.",
+	"EQUIPMENT_RECYCLER_NAME": "TM67 Recycle",
+	"EQUIPMENT_RECYCLER_PICKUP": "Reduce, reuse...",
 	"EQUIPMENT_RECYCLER_DESC": "<style=cIsUtility>Transform</style> an Item or Equipment into a different one. <style=cIsUtility>Can only be converted into the same tier one time</style>.",
 	"EQUIPMENT_RECYCLER_LORE": "Order: \u201CTY-6G Recycler\u201D\r\nTracking Number: 02******\r\nEstimated Delivery: 11\\06\\2056\\\r\nShipping Method: Standard\r\nShipping Address: 700 Baler Ave, Seattle, Earth\r\nShipping Details:\r\n\r\nStandard issue recycling apparatus TY-6G. Please read the manual before operating. KEEP HANDS CLEAR OF THE TOP OPENING.\r\n\r\nUse included recycler rod to pack refuse into top. Our patented smart technology will find a new, usable form for the matter you insert. \r\n\r\nThank you for recycling!\r\n",
 
@@ -162,13 +162,13 @@
 	"EQUIPMENT_LIFESTEALONHIT_DESC": "<style=cIsHealing>Heal</style> for <style=cIsHealing>20%</style> of the <style=cIsDamage>damage</style> you deal. Lasts <style=cIsHealing>8</style> seconds.",
 	"EQUIPMENT_LIFESTEALONHIT_LORE": "Return: Super Massive Leech\r\nTracking Number: 817*****\r\nEstimated Delivery: 07/01/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Rare/Extinct Study Satellite, Beachfront, Saturn\r\nShipping Details:\r\n\r\nWhile the medical benefits of this creature are obvious, the psychological effects are not. Upon receiving a previous shipment, Carolyn took charge of research and experimentation with the organism. \r\n\r\nEverything was by the book until, one day, she walked into the lab with the specimen clearly attached to her neck. Incredibly startled, the rest of us eventually coaxed her into placing it back into containment.\r\n\r\nWe inspected the bite area but, after running all the standard tests, we did not observe any adverse side effects.\r\n\r\nShe stated that it made her feel fantastic, but no one else in the lab felt comfortable with her behavior.\r\n",
 
-	"EQUIPMENT_TEAMWARCRY_NAME": "Gorag's Opus",
-	"EQUIPMENT_TEAMWARCRY_PICKUP": "You and all your allies enter a frenzy.",
+	"EQUIPMENT_TEAMWARCRY_NAME": "Rillaboom's Drum",
+	"EQUIPMENT_TEAMWARCRY_PICKUP": "Return to monke.",
 	"EQUIPMENT_TEAMWARCRY_DESC": "All allies enter a <style=cIsDamage>frenzy</style> for <style=cIsUtility>7</style> seconds. Increases <style=cIsUtility>movement speed</style> by <style=cIsUtility>50%</style> and <style=cIsDamage>attack speed</style> by <style=cIsDamage>100%</style>.",
 	"EQUIPMENT_TEAMWARCRY_LORE": "<style=cMono>Audio transcription complete from \"Carrion Crows Tour 2055: Special Edition\"\r\n\r\nPrinting...</style>\r\n\r\n\"Halfway through the tour we were at this little shop down in Groveside and the guy at the desk is trying to sell us random junk.\"\r\n\r\n\"Yeah, he was totally out of the loop, had no idea who we were.\"\r\n\r\n\"Yep, anyways, as a joke, I\u2019m thinking I\u2019ll buy this ancient looking drum and use it on stage at the next show. Then we\u2019d circle back and show this guy a video of his merch being used in the biggest performance on the planet.\"\r\n\r\n\"We tried to find him again, but the shop was all shut down. Couldn\u2019t figure out what happened to him.\"\r\n\r\n\"Thing is, that drum drove our fans wild. It turned out to be our most successful tour ever.\"\r\n",
 
-	"EQUIPMENT_DEATHPROJECTILE_NAME": "Forgive Me Please",
-	"EQUIPMENT_DEATHPROJECTILE_PICKUP": "Throw a cursed doll that repeatedly triggers your 'On Kill' effects.",
+	"EQUIPMENT_DEATHPROJECTILE_NAME": "D:",
+	"EQUIPMENT_DEATHPROJECTILE_PICKUP": "I'm sorryyyyyyyy!!!",
 	"EQUIPMENT_DEATHPROJECTILE_DESC": "Throw a cursed doll out that <style=cIsDamage>triggers</style> any <style=cIsDamage>On-Kill</style> effects you have every <style=cIsUtility>1</style> second for <style=cIsUtility>8</style> seconds.",
 	"EQUIPMENT_DEATHPROJECTILE_LORE": "There is a note pinned to the doll:\r\n\r\nAyy, you\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re really killing me.\r\n",
 	
@@ -188,27 +188,27 @@
 	"EQUIPMENT_LUNARPORTALONUSE_LORE" : "This is a placeholder. write something sad here :(",
 
 	"EQUIPMENT_VENDINGMACHINE_NAME" : "Remote Caffeinator",
-	"EQUIPMENT_VENDINGMACHINE_PICKUP" : "Request a healing soda machine.",
+	"EQUIPMENT_VENDINGMACHINE_PICKUP" : "Cold, refreshing Mountain Dew. Anywhere, anytime.",
 	"EQUIPMENT_VENDINGMACHINE_DESC" : "Request an <style=cIsDamage>Eclipse Zero Vending Machine</style> from the <style=cIsDamage>UES Safe Travels</style>. Delivery guaranteed in <style=cIsUtility>5 seconds</style>, dealing <style=cIsDamage>2000% damage</style>. <style=cIsHealing>Heal</style> up to 3 targets for <style=cIsHealing>25% of their maximum health</style>.",
 	"EQUIPMENT_VENDINGMACHINE_LORE" : "\"I sure am thirsty,\" Chen said as he filled a Lemurian with bullets.\n\nLuckily for him, he had found an Eclipse Remote Caffeinator aboard his vessel. Reaching in his pocket, Chen pressed the button marked with the Eclipse logo, and many systems began to whirr to life.\n\nHigh up in the atmosphere, a panel on the hull of the UES Safe Travels slid open with a clunk. Ready to be ejected, an Eclipse Zero Vending Machine (c2038) twinkled valiantly. Silently, the vending machine began its journey down to the surface.\n\nBack down on the planet, Chen was starting to run low on ammunition, and the Lemurians were closing in. But, just when the Lemurians were ready to tear Chen apart, who else but the Eclipse Zero Vending Machine came crashing down, squishing the Lemurians into a fine paste. Climbing up a mound of dead Lemurians, Chen entered 5 standard credits into the machine and ordered his favorite beverage, courtesy of the Eclipse Company. \"Wow, refreshing and life-saving! Eclipse, quenching thirsts no matter where you are!\" Chen smiled, grateful for Eclipse's galaxy-wide service and quality assurance.\n\n<style=cMono>This log entry was brought to you by Eclipse: The Galactic Quencher</style>",
 
-	"EQUIPMENT_GUMMYCLONE_NAME" : "Goobo Jr.",
-	"EQUIPMENT_GUMMYCLONE_PICKUP" : "Create a clone of you for 30 seconds.",
+	"EQUIPMENT_GUMMYCLONE_NAME" : "Ditto",
+	"EQUIPMENT_GUMMYCLONE_PICKUP" : "Not just for Pokemon breeding!",
 	"EQUIPMENT_GUMMYCLONE_DESC" : "Spawn a gummy clone that has <style=cIsDamage>700% damage</style> and <style=cIsHealing>700% health</style>. Expires in <style=cIsUtility>30</style> seconds.",
 	"EQUIPMENT_GUMMYCLONE_LORE" : "<style=cMono>//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</style>\n\n\"I'm telling you, you need to be more strict with your little slime project, dude. I caught him rummaging through my stuff earlier. You know how hard it is to get stains out of these UES uniforms? \"\n\n\"His NAME is Goobo Jr., thank you very much. And I'm sure he was just playing. He likes his uncle Rich, isn't that right, Goobo?\"\n\n\"It doesn't have vocal chords, Mike.\"\n\n\"You don't have vocal chords.\"\n\n\"Real mature. Anyway, you better stop messing around, or the Captain will send that slime ball to the front lines. Now, I got to go do my job. Y'know, what we were sent here for, not playing dollhouse with your ‘science project' over here.\"\n\n\"Yeah, yeah... Alright, he's gone. Hey Goobo, listen up. You got a good look at Rich, right? I got an idea to knock him down a few notches. First, you gotta take on his shape, and then...\"\n\n<style=cMono>[THIS LOG HAS BEEN FLAGGED FOR REVIEW AS PART OF: COURT MARTIAL OF RICHARD D. BAGGINS]</style>",
 
-	"EQUIPMENT_BOSSHUNTER_NAME" : "Trophy Hunter's Tricorn",
-	"EQUIPMENT_BOSSHUNTER_PICKUP" : "Execute a large monster and claim its <style=cIsDamage>trophy</style>. Consumed on use.",
+	"EQUIPMENT_BOSSHUNTER_NAME" : "My BOOMSTICK!",
+	"EQUIPMENT_BOSSHUNTER_PICKUP" : "'What are you gonna do, shoot me?'  -guy who was shot",
 	"EQUIPMENT_BOSSHUNTER_DESC" : "<style=cIsDamage>Execute</style> any enemy capable of spawning a <style=cIsDamage>unique reward</style>, and it will drop that <style=cIsDamage>item</style>. Equipment is <style=cIsUtility>consumed</style> on use.",
 	"EQUIPMENT_BOSSHUNTER_LORE" : "\"I've always thought,\" said Rainsford, \"that the Bighorn Bison is the most dangerous of all big game.\"\n\nFor a moment the general did not reply; he was smiling his curious red-lipped smile. Then he said slowly, \"No. You are wrong, sir. The Bighorn Bison is not the most dangerous big game.\" He sipped his wine. \"Here in my preserve on this planet,\" he said in the same slow tone, \"I hunt more dangerous game.\"\n\n\"...Sir?\" General Hadbury turned to Rainsford. \"Tell me, Rainsford, what makes game... dangerous?\" Rainsford thought for a moment. \"...The, er, size, sir? Big animals are often pretty tough to take down.\" Habury nodded. \"Indeed, size can be important, but that's not it. In my eye, what makes game dangerous is... intelligence.\" Hadbury met Rainsford's gaze with a twinkle in his eye.\n\n\"The best hunt is always a match of wits. Say I were to lay some traps - how would I go about disguising them so that my prize won't spot them from a mile away? It makes things so much more fun, you see.\" Hadbury turned, walking towards the railing of the balcony overlooking his reserve. \"There's no fun to the hunt, or any game for that matter, if there is no risk involved... if there is no story to the prize. That is why, dear Rainsford, my halls are decorated with the spoils of hunts that could only be described as legendary.\" Hadbury's red-lipped smile grew into a red-lined grin. \"Now get the men ready, for we are going to hunt.\"",
 
-	"EQUIPMENT_BOSSHUNTERCONSUMED_NAME" : "Trophy Hunter's Tricorn (Consumed)",
-	"EQUIPMENT_BOSSHUNTERCONSUMED_PICKUP" : "Looks kinda cool, but that's about it.",
+	"EQUIPMENT_BOSSHUNTERCONSUMED_NAME" : "Hat!",
+	"EQUIPMENT_BOSSHUNTERCONSUMED_PICKUP" : "A mercenary's favorite cosmetic.",
 	"EQUIPMENT_BOSSHUNTERCONSUMED_DESC" : "Looks kinda cool, but that's about it.",
 	"EQUIPMENT_BOSSHUNTERCONSUMED_CHAT": "Ahoy!",
 
-	"EQUIPMENT_MULTISHOPCARD_NAME": "Executive Card",
-	"EQUIPMENT_MULTISHOPCARD_PICKUP": "Gain 10% cash back on all purchases. Multishops remain open.",
+	"EQUIPMENT_MULTISHOPCARD_NAME": "Mom's credit card",
+	"EQUIPMENT_MULTISHOPCARD_PICKUP": "She said only to use it in an emergency. FASHION IS AN EMERGENCY.",
 	"EQUIPMENT_MULTISHOPCARD_DESC": "Whenever you make a gold purchase, get <style=cIsUtility>10%</style> of the spent gold back. If the purchase is a <style=cIsUtility>multishop</style> terminal, the other terminals will <style=cIsUtility>remain open</style>.",
 	"EQUIPMENT_MULTISHOPCARD_LORE" : "<style=cMono>\/\/--AUTO-TRANSCRIPTION FROM UES [Redacted] --\/\/<\/style>\r\n\r\n\"When you're on the planet, keep a look out for any loose UES Security Chests. Orders from the higher ups, we're to retrieve any and all parcels that were aboard the Contact Light and bring 'em home. When you locate them, open the Security Chest and retrieve the item within. When you've verified the contents of the chest, move out and continue with your other assignments. Understood?\"\r\n\r\n\"Sir yes sir! But how are we going to open them? They're locked tight, aren't they?\"\r\n\r\n\"A good question, soldier. Everyone, take one Executive Credit Card, then pass the tray to your next squad mate.\"\r\n\r\n\"E-Executive cards...? Aren't these only used by like, super rich folks? How are we ever going to pay it back?\"\r\n\r\n\"What? No. You don't pay it back.\"\r\n\r\n\"But aren't we borrowing money?\"'\r\n\r\n\"Yes.\"\r\n\r\n\"So don't we have to pay it back, eventually?\"\r\n\r\n\"Yes, with another card.\"\r\n\r\n\"Sir, I don't understand.\"\r\n\r\n\"No, you just uh... well you see, the way these cards work is that, uh... [?] well you can take out a low-interest loan to... the buying power of debt is...[??]\"\r\n\r\n<style=cMono>\/\/--TRANSCRIPTION UNINTELLIGIBLE --\/\/<\/style>",
 	}
