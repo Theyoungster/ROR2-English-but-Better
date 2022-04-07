@@ -8,7 +8,7 @@
 		"CUTSCENE_INTRO_SUBTITLE_4": "No sir... Nothing.",
 		"CUTSCENE_INTRO_SUBTITLE_5": "Any survivors?",
 		"CUTSCENE_INTRO_SUBTITLE_6": "No sir. Still nothing.",
-		"CUTSCENE_INTRO_SUBTITLE_7": "... Which one of you assholes broke the scanner?",
+		"CUTSCENE_INTRO_SUBTITLE_7": "... Which one of you assholes jammed the scanner?",
 		"CUTSCENE_INTRO_SUBTITLE_8": "I'm pretty sure it was Phillip.",
 		"CUTSCENE_INTRO_SUBTITLE_9": "Phillip Asshole?",
 		"CUTSCENE_INTRO_SUBTITLE_10": "DAMMIT PHILLIP!",

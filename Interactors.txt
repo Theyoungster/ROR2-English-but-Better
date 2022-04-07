@@ -37,7 +37,7 @@
 	"CHEST2_CONTEXT": "Open BEEG box",
 
 	"GOLDCHEST_NAME": "THE BOI",
-	"GOLDCHEST_CONTEXT": "Open THE BOI",
+	"GOLDCHEST_CONTEXT": "GIMMIE RED ITEM.",
 
 	"TIMEDCHEST_NAME": "BFG Containment Unit",
 	"TIMEDCHEST_CONTEXT": "Open BFG Containment Unit",
@@ -92,10 +92,10 @@
 	"MSOBELISK_CONTEXT_CONFIRMATION" : "Guess I'll Die!",
 
 	"CATEGORYCHEST_HEALING_NAME": "Healy Box",
-	"CATEGORYCHEST_HEALING_CONTEXT": "I WANT TO LIVE!",
+	"CATEGORYCHEST_HEALING_CONTEXT": "MEDIIIIC!",
 
 	"CATEGORYCHEST_DAMAGE_NAME": "Boom Box",
-	"CATEGORYCHEST_DAMAGE_CONTEXT": "Love the smell of Napalm in the morning",
+	"CATEGORYCHEST_DAMAGE_CONTEXT": "Love the smell of Napalm in the morning.",
 
 	"CATEGORYCHEST_UTILITY_NAME": "Odds & Ends Box",
 	"CATEGORYCHEST_UTILITY_CONTEXT": "What's it gonna be, what's it gonna be!?",
@@ -121,9 +121,9 @@
 	"SHRINE_BOSS_NAME": "Shrine of Punishment",
 	"SHRINE_BOSS_CONTEXT": "Summon Monokuma",
 	"SHRINE_BOSS_USE_MESSAGE_2P": "<style=cShrine>Puhuhu!</color>",
-	"SHRINE_BOSS_USE_MESSAGE": "<style=cShrine>{0} summons Monokuma</color>",
+	"SHRINE_BOSS_USE_MESSAGE": "<style=cShrine>{0} summoned Monokuma!</color>",
 	"SHRINE_BOSS_BEGIN_TRIAL": "<style=cShrine>IIIIIIIIT'S PUNISHMENT TIME!</style>",
-	"SHRINE_BOSS_END_TRIAL": "<style=cShrine>The Class Trial Ends!</style>",
+	"SHRINE_BOSS_END_TRIAL": "<style=cShrine>The Class Trial is over!</style>",
 
 	"VOID_SUPPRESSOR_NAME": "Void Eradicator",
 	"VOID_SUPPRESSOR_CONTEXT": "Eradicate items",
@@ -140,10 +140,10 @@
 	"SHRINE_GOLDSHORES_NAME": "Altar of Gold",
 	"SHRINE_GOLDSHORES_CONTEXT": "Offer to Altar of Gold",
 
-	"SHRINE_COMBAT_NAME": "Shrine of Combat",
-	"SHRINE_COMBAT_CONTEXT": "Pray to Shrine of Combat",
+	"SHRINE_COMBAT_NAME": "Shrine of Fight Club",
+	"SHRINE_COMBAT_CONTEXT": "Talk about Fight Club",
 	"SHRINE_COMBAT_USE_MESSAGE_2P": "<style=cShrine>HERE COME THE {1}s!</color>",
-	"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{0} is about to get mauled by {1}s.</color>",
+	"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{0} broke the first rule of Fight Club, and is about to get mauled by {1}s.</color>",
 
 	"SHRINE_PROTECTION_NAME": "Shrine of Warding",
 	"SHRINE_PROTECTION_CONTEXT": "Pray to Shrine of Warding",
@@ -155,8 +155,8 @@
 	"SHRINE_CLEANSE_USE_MESSAGE_2P": "<style=cShrine>You have cleansed yourself of {1}.</color>",
 	"SHRINE_CLEANSE_USE_MESSAGE": "<style=cShrine>{0} has cleansed themself of {1}.</color>",
 
-	"GOLDTOTEM_NAME": "Halcyon Beacon",
-	"GOLDTOTEM_CONTEXT": "Rebuild Halcyon Beacon",
+	"GOLDTOTEM_NAME": "Aurelionite pinger",
+	"GOLDTOTEM_CONTEXT": "@aurelionite",
 
 	"ARENA_ADD_MONSTER" : "<style=cWorldEvent>[WARNING] OH GODS, NOT {1}s!</style>",
 	"ARENA_ADD_ITEM" : "<style=cWorldEvent>[WARNING] EFF, THEY FOUND THE {1}s!</style>",
@@ -188,17 +188,17 @@
 	"LOCKEDTREEBOT_NAME" : "Broken Robot",
 	"LOCKEDTREEBOT_CONTEXT" : "Repair",
 
-	"SCAVBACKPACK_NAME" : "Scavenger's Sack",
-	"SCAVBACKPACK_CONTEXT" : "Open Scavenger's Sack",
+	"SCAVBACKPACK_NAME" : "Heward's Handy Haversack",
+	"SCAVBACKPACK_CONTEXT" : "Open Haversack,
 	//[DRONES],
 	"DRONE_GUNNER_INTERACTABLE_NAME": "Broken Gunner Drone",
 	"DRONE_GUNNER_CONTEXT": "Repair Gunner Drone",
 
-	"DRONE_MEGA_INTERACTABLE_NAME": "Broken TC-280",
-	"DRONE_MEGA_CONTEXT": "Repair ???",
+	"DRONE_MEGA_INTERACTABLE_NAME": "Broken BIG CHONK",
+	"DRONE_MEGA_CONTEXT": "SUMMON THE CHONKER",
 
-	"DRONE_HEALING_INTERACTABLE_NAME": "Broken Healing Drone",
-	"DRONE_HEALING_CONTEXT": "Repair Healing Drone",
+	"DRONE_HEALING_INTERACTABLE_NAME": "Broken Healbot",
+	"DRONE_HEALING_CONTEXT": "Repair Healbot",
 
 	"DRONE_MISSILE_INTERACTABLE_NAME": "Broken Missile Drone",
 	"DRONE_MISSILE_CONTEXT": "Repair Missile Drone",
@@ -310,13 +310,13 @@
 
 	"VOID_SURVIVOR_POD_HATCH_OPEN_CONTEXT":"Emerge",
 
-	"CATEGORYCHEST2_HEALING_NAME": "Large Chest - Healing",
-	"CATEGORYCHEST2_HEALING_CONTEXT": "Open Large Chest - Healing",
+	"CATEGORYCHEST2_HEALING_NAME": "BEEG Healy Box",
+	"CATEGORYCHEST2_HEALING_CONTEXT": "Open BEEG healy box",
 
-	"CATEGORYCHEST2_DAMAGE_NAME": "Large Chest - Damage",
-	"CATEGORYCHEST2_DAMAGE_CONTEXT": "Open Large Chest - Damage",
+	"CATEGORYCHEST2_DAMAGE_NAME": "BEEG Boom Box",
+	"CATEGORYCHEST2_DAMAGE_CONTEXT": "Open BEEG Boom Box",
 
-	"CATEGORYCHEST2_UTILITY_NAME": "Large Chest - Utility",
-	"CATEGORYCHEST2_UTILITY_CONTEXT": "Open Large Chest - Utility",
+	"CATEGORYCHEST2_UTILITY_NAME": "BEEG Odds & Ends Box",
+	"CATEGORYCHEST2_UTILITY_CONTEXT": "Open BEEG Odds & Ends Box",
 	}
 }
