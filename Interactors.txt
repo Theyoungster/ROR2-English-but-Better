@@ -189,7 +189,7 @@
 	"LOCKEDTREEBOT_CONTEXT" : "Repair",
 
 	"SCAVBACKPACK_NAME" : "Heward's Handy Haversack",
-	"SCAVBACKPACK_CONTEXT" : "Open Haversack,
+	"SCAVBACKPACK_CONTEXT" : "Open Haversack",
 	//[DRONES],
 	"DRONE_GUNNER_INTERACTABLE_NAME": "Broken Gunner Drone",
 	"DRONE_GUNNER_CONTEXT": "Repair Gunner Drone",
