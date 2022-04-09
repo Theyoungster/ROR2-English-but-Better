@@ -502,7 +502,7 @@
 	"DRONE_COMMANDER_BODY_NAME" : "Col. Droneman",
 
 	//[INTERACTORS/BODY]
-	"TURRET1_BODY_NAME": "A gun with (non-functioning) legs",
+	"TURRET1_BODY_NAME": "Minisentry",
 
 	//[MISC]
 	"ENGITURRET_BODY_NAME": "Buildin' a Sentry!",
