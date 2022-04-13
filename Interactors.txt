@@ -253,7 +253,7 @@
 	"PORTAL_DIALER_CONTEXT" : "Cycle Compound",
 
 	"PORTAL_DIALER_LAPTOP_NAME" : "Laptop",
-	"PORTAL_DIALER_LAPTOP_CONTEXT" : "Steal Krabby Patty formula",
+	"PORTAL_DIALER_LAPTOP_CONTEXT" : "Hack the planet",
 
 	"LUNAR_TELEPORTER_NAME": "Primordial Teleporter",
 	"LUNAR_TELEPORTER_SHIFT" : "Shift Destination",
