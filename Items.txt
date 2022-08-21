@@ -15,8 +15,8 @@
 	"ITEM_SYRINGE_DESC": "Increases <style=cIsDamage>attack speed</style> by <style=cIsDamage>15% <style=cStack>(+15% per stack)</style></style>.",
 	"ITEM_SYRINGE_LORE" : "\"I ain't much for drugs... but hell, when fortune is knockin', ya gotta greet that door with a smile and a nod. Salud!\"\r\n\r\n-Signal echoes, UES Contact Light\r\n",
 
-	"ITEM_BEAR_NAME": "TM90 Substitute",
-	"ITEM_BEAR_PICKUP": "The best stall technique.",
+	"ITEM_BEAR_NAME": "TM17 Protect",
+	"ITEM_BEAR_PICKUP": "May not work twice in a row.",
 	"ITEM_BEAR_DESC": "<style=cIsHealing>15%</style> <style=cStack>(+15% per stack)</style> chance to <style=cIsHealing>block</style> incoming damage. <style=cIsUtility>Unaffected by luck</style>.", 
 	"ITEM_BEAR_LORE" : "<style=cMono>\n//--AUTO-TRANSCRIPTION FROM ROOM 4211B OF UES [Redacted] --//</style>\n\n\"Why\'d you sign up?\"\n\nWyatt\'s voice was bored. The mission to the Contact Light\'s last known location was taking longer than he expected.\n\nMalik was on the floor, cleaning her rifle. \"To get paid, mostly.\"\n\n\"And that\'s it?\"\n\nShe grunted in affirmation. She continued to wipe down the weapon.\n\n\"I\'m here to find something.\" He continued. \"I shipped it a few years back, but I don\'t think it made it before the train went down. I\'m guessing it\'s still in the Contact Light. So I\'m gonna get it back.\"\n\nShe began to tighten the last remaining bolts. Her routine near completion, she moved her gaze to Wyatt. \"Seriously?\"\n\n\"Yep!\"\n\nMalik raised her brow. \"There were over 7 million security chests in the Contact Light. The chance of you finding a specific one is impossible.\" She began to unfold her legs as she propped her rifle in the corner. \"And according to the distress beacon, the Contact Light was destroyed in orbit. Your shipment is probably floating around in space. It\'s all gone, Wyatt.\"\n\nHe grinned. \"I think I\'m gonna find it.\"\n\n\"You\'re terrible.\"\n",
 
@@ -643,8 +643,8 @@
 	"ITEM_TREASURECACHEVOID_DESC": "A <style=cIsUtility>hidden cache</style> containing an item (60%/<style=cIsHealing>30%</style>/<style=cIsHealth>10%</style>) will appear in a random location <style=cIsUtility>on each stage</style>. Opening the cache <style=cIsUtility>consumes</style> this item. <style=cIsVoid>Corrupts all Rusted Keys</style>.",
 	"ITEM_TREASURECACHEVOID_LORE" : "<style=cMono>//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</style>\n\n\"I have this key. I found it one day when I was taking a walk along the beach... It was washed up on the shore, all covered in crust and sand. I dunno why, but I took it with me... I figured it would be neat to try and figure out what this key went to. It'd be like a treasure hunt, y'know? Thing is, no matter who I went to, I never found anything. Any lock that seemed to match, the key wouldn't go in all the way. I was starting to get frustrated. I... I'm not too religious, but for some reason, I felt it was my destiny to use this old, beat-up key and find its match. M-Maybe it would change my life. I dunno. And, when I heard about this mission, for some reason, my heart began to race. I've heard all about the Contact Light's disappearance, everyone has. But... I don't know why, but I felt, in my heart of hearts... Whatever this key went to was where the Contact Light was. And it was my destiny to come along.\"",
 		
-	"ITEM_BEARVOID_NAME" : "TM17 Protect",
-	"ITEM_BEARVOID_PICKUP" : "<style=cIsVoid>May not work twice in a row.</style>.",
+	"ITEM_BEARVOID_NAME" : "TM90 Substitute",
+	"ITEM_BEARVOID_PICKUP" : "<style=cIsVoid>The best stall technique.</style>.",
 	"ITEM_BEARVOID_DESC": "<style=cIsHealing>Blocks</style> incoming damage once. Recharges after <style=cIsUtility>15 seconds</style> <style=cStack>(-10% per stack)</style>. <style=cIsVoid>Corrupts all Tougher Times</style>.", 
 	"ITEM_BEARVOID_LORE" : "\"You can't shoot me.\n\nYou can't taze me.\n\nYou can't gas me.\n\nYou can't even knock me down.\n\nNot without something very precious going squish.\"",
 	
