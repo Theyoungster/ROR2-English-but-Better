@@ -42,9 +42,9 @@
 		"BROTHERHURT_DAMAGEDEALT_4": "My Power Level...IT'S OVER 9000!!!!!!!!!",
 		"BROTHERHURT_DAMAGEDEALT_5": "How're all those items workin' out for ya?",
 		"BROTHERHURT_DAMAGEDEALT_6": "Ahoy!",
-		"BROTHERHURT_DAMAGEDEALT_7": "FALSE STRENGTH.",
-		"BROTHERHURT_DAMAGEDEALT_8": "DRAIN.",
-		"BROTHERHURT_DAMAGEDEALT_9": "DIE, VERMIN.",
+		"BROTHERHURT_DAMAGEDEALT_7": "I'M GONNA LIVE FOREVER!!!",
+		"BROTHERHURT_DAMAGEDEALT_8": "Oh, so THAT'S what that item does!",
+		"BROTHERHURT_DAMAGEDEALT_9": "https://www.youtube.com/watch?v=b1HJTw2jdIc",
 		"BROTHERHURT_DAMAGEDEALT_10": "Sorry buddy, shoulda had your stuff nailed down.",
 
 		"BROTHERHURT_KILL_1": "Yo, can I keep your stuff?",
@@ -64,7 +64,7 @@
 		"BROTHERHURT_SEE_TITANGOLD_2": "ohhh...uhhh...hey buddy...",
 		"BROTHERHURT_SEE_TITANGOLD_AND_HERETIC_1": "Oh, birb have friend.",
 
-		"BROTHERHURT_KILL_TITANGOLD_1": "*Critical Hit!* ...I knew I should've just used my Master Ball...",
+		"BROTHERHURT_KILL_TITANGOLD_1": "*Critical Hit!* '...I knew I should've just used my Master Ball...'",
 		"BROTHERHURT_KILL_TITANGOLD_2": "Hey I won! :D",
 
 		"BROTHERHURT_KILL_HERETIC_1": "A moment of silence...for birb... T-T",
