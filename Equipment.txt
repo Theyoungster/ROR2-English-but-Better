@@ -109,8 +109,8 @@
 	"EQUIPMENT_SOULCORRUPTOR_PICKUP": "EQUIPMENT_SOULCORRUPTOR_PICKUP",
 	"EQUIPMENT_SOULCORRUPTOR_DESC": "EQUIPMENT_SOULCORRUPTOR_DESC",
 
-	"EQUIPMENT_SCANNER_NAME": "Radar Scanner",
-	"EQUIPMENT_SCANNER_PICKUP": "Reveal all nearby interactables.",
+	"EQUIPMENT_SCANNER_NAME": "Portable Pinger",
+	"EQUIPMENT_SCANNER_PICKUP": "Zoom and enhance!",
 	"EQUIPMENT_SCANNER_DESC": "<style=cIsUtility>Reveal</style> all interactables within 500m for <style=cIsUtility>10 seconds</style>.",
 	"EQUIPMENT_SCANNER_LORE": "Order: Radar Communications Array\r\nTracking Number: 02****************\r\nEstimated Delivery: 01\/14\/2056\r\nShipping Method:  Standard\r\nShipping Address: PO Box 25-B, Fort G.B., Mercury\r\nShipping Details: \r\n\r\nYou\u2019re asking for trouble, ordering this through the UES. Not very covert. This thing can put out anything from infrared to UV waves \u2013 maybe it\u2019ll let you see the Enforcers coming to haul you off to jail as they kick down your door! Hah!\r\n",
 
@@ -157,8 +157,8 @@
 	"EQUIPMENT_RECYCLER_DESC": "<style=cIsUtility>Transform</style> an Item or Equipment into a different one. <style=cIsUtility>Can only be converted into the same tier one time</style>.",
 	"EQUIPMENT_RECYCLER_LORE": "Order: \u201CTY-6G Recycler\u201D\r\nTracking Number: 02******\r\nEstimated Delivery: 11\\06\\2056\\\r\nShipping Method: Standard\r\nShipping Address: 700 Baler Ave, Seattle, Earth\r\nShipping Details:\r\n\r\nStandard issue recycling apparatus TY-6G. Please read the manual before operating. KEEP HANDS CLEAR OF THE TOP OPENING.\r\n\r\nUse included recycler rod to pack refuse into top. Our patented smart technology will find a new, usable form for the matter you insert. \r\n\r\nThank you for recycling!\r\n",
 
-	"EQUIPMENT_LIFESTEALONHIT_NAME": "Super Massive Leech",
-	"EQUIPMENT_LIFESTEALONHIT_PICKUP": "Heal for a percentage of the damage you deal for 8 seconds.",
+	"EQUIPMENT_LIFESTEALONHIT_NAME": "Alaskan Bull Worm",
+	"EQUIPMENT_LIFESTEALONHIT_PICKUP": "Eat your enemies for health!",
 	"EQUIPMENT_LIFESTEALONHIT_DESC": "<style=cIsHealing>Heal</style> for <style=cIsHealing>20%</style> of the <style=cIsDamage>damage</style> you deal. Lasts <style=cIsHealing>8</style> seconds.",
 	"EQUIPMENT_LIFESTEALONHIT_LORE": "Return: Super Massive Leech\r\nTracking Number: 817*****\r\nEstimated Delivery: 07/01/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Rare/Extinct Study Satellite, Beachfront, Saturn\r\nShipping Details:\r\n\r\nWhile the medical benefits of this creature are obvious, the psychological effects are not. Upon receiving a previous shipment, Carolyn took charge of research and experimentation with the organism. \r\n\r\nEverything was by the book until, one day, she walked into the lab with the specimen clearly attached to her neck. Incredibly startled, the rest of us eventually coaxed her into placing it back into containment.\r\n\r\nWe inspected the bite area but, after running all the standard tests, we did not observe any adverse side effects.\r\n\r\nShe stated that it made her feel fantastic, but no one else in the lab felt comfortable with her behavior.\r\n",
 
@@ -172,8 +172,8 @@
 	"EQUIPMENT_DEATHPROJECTILE_DESC": "Throw a cursed doll out that <style=cIsDamage>triggers</style> any <style=cIsDamage>On-Kill</style> effects you have every <style=cIsUtility>1</style> second for <style=cIsUtility>8</style> seconds.",
 	"EQUIPMENT_DEATHPROJECTILE_LORE": "There is a note pinned to the doll:\r\n\r\nAyy, you\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re really killing me.\r\n",
 	
-	"EQUIPMENT_MOLOTOV_NAME": "Molotov (6-Pack)",
-	"EQUIPMENT_MOLOTOV_PICKUP": "Throw 6 flaming molotovs that ignite enemies upon shattering.",
+	"EQUIPMENT_MOLOTOV_NAME": "Napalm",
+	"EQUIPMENT_MOLOTOV_PICKUP": "Love that smell in the morning",
 	"EQUIPMENT_MOLOTOV_DESC": "Throw <style=cIsDamage>6</style> molotov cocktails that <style=cIsDamage>ignites</style> enemies for <style=cIsDamage>500% base damage</style>. Each molotov leaves a burning area for <style=cIsDamage>200% damage per second</style>.",
 	"EQUIPMENT_MOLOTOV_LORE": "Order: Ethanol Bottle (32 oz.), 6 Pack\r\nTracking Number: 81******\r\nEstimated Delivery: 05/8/2058\r\nShipping Method: Priority\r\nShipping Address: Teromere Manor, Privet Road, Mars\nShipping Details: Let our friends inside know that we're coming over for drinks on the 16th of June. It'll be a hell of a party, they should probably hit the road before things get too out of hand.",
 
